@@ -1,2 +1,2 @@
 # fcc
-Projects from Free Code Camp Community
+Projects from Free Code Camp community.
